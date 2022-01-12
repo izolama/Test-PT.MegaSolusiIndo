@@ -44,5 +44,3 @@ Framework yang pernah digunakan , panduan
  - Bootstrap
 ```
 
-JavaScript Framework
-============
