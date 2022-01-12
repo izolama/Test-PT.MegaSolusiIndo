@@ -10,6 +10,6 @@
 
 ### Sangat senang sudah berkunjung! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=izolama.izolama)
 
-Saya membuat ini untuk mengikuti tes di [!Mega Giga Solusindo[Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://https://megagigasolusindo.co.id/)
+Saya membuat ini untuk mengikuti tes di PT. Mega Giga Solusindo[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://https://megagigasolusindo.co.id/)
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
