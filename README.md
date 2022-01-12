@@ -142,7 +142,7 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
 ```
 ### console fetchApi
 
-```JSON
+```populate
   [ObjectResponse]{
    ArrayBuffer: function arrayBuffer (){},
    Blob: function blob(){},
@@ -161,5 +161,56 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
    Url: 'https://yantek.padipresence.id/api/ticket/support/';
 
   }
+```
+
+Terdapat `Console.log()` di `json ()` yang convert dengan hasil
+response ke raw JSON , untuk FetchApi yang harus dilakukan adalah
+
+```js
+const url = 'https://yantek.padipresence.id/api/ticket/support/';
+ fetch(url, {
+   headers : {
+    'Accept' : 'application/Json'
+      }
+    })
+  .then(res => res.json());
+  .then(data => console.log(data));
+```
+Melakukan sekali lagi pemanggilan dengan fungsi `.then` untuk 
+Mendapatkan data `response` yang diinginkan .
+
+```populate
+ Object{
+  User : "is_01",
+  Pass : "1234",
+  Imei : "imei1234",
+  Status : 200
+```
+
+Sedangkan dengan `AXIOS`
+```js
+const url = 'https://yantek.padipresence.id/api/ticket/support/';
+ AXIOS.get(url {
+  headers : {
+   'Accept' : 'application/json'
+  }
+ }.then(res => console.log(res));
+   
+```
+Menampilkan di console 
+```populate
+ Object{
+  Config : object{},
+  Data: Object{
+    User : "is_01",
+    Pass : "1234",
+    Imei : "imei1234",
+    Status : 200
+ },
+ Headers : object{},
+ Request : [object xmlHttpRequest]{},
+ Status : 200,
+ StatusText : " "
+}
 ```
 
