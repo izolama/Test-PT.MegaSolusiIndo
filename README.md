@@ -32,7 +32,7 @@ Table of contents
 <!--te-->
 
 
-Framework Css
+FrameworkCss
 ============
 
 Linux (manual installation)
