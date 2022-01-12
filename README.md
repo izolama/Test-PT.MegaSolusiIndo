@@ -127,7 +127,7 @@ PORT=3001 node server.js
 ```
 
 
-[ ∆ back to top ](#top)
+**[ ∆ back to top ](#top)**
 
 
 <a name="call"></a>
@@ -227,3 +227,6 @@ Menampilkan di console
 AXIOS tidak membutuhkan fungsi convert `.json()` . Karena  `response` 
 AXIOS otomatis `return as a JSON` hanya melakukan pemanggilan 
 `res.data` untuk mendapatkan response yang diinginkan.
+
+**[ ∆ back to top ](#top)**
+
