@@ -22,7 +22,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [Framework Css](#framewrokcss)
+   * [FrameworkCss](#framewrokcss)
    * [Usage](#usage)
    * [Tests](#tests)
    * [Dependency](#dependency)
