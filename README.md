@@ -144,21 +144,21 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
 
 ```json
   [ObjectResponse]{
-   arrayBuffer: function arrayBuffer (){},
-   blob: function blob(){},
-   body: [objectReadableStream]{},
-   bodyused: false,
-   clone: function clone(){},
-   formData: function clone(){},
-   headers: [objectHeaders]{},
-   json: function json(){},
-   ok: true,
-   redirected: false,
-   status: 200,
-   statusText: "";
-   text: function text(){},
-   text: "is_01",
-   url: 'https://yantek.padipresence.id/api/ticket/support/';
+   ArrayBuffer: function arrayBuffer (){},
+   Blob: function blob(){},
+   Body: [objectReadableStream]{},
+   Bodyused: false,
+   Clone: function clone(){},
+   FormData: function clone(){},
+   Headers: [objectHeaders]{},
+   Json: function json(){},
+   Ok: true,
+   Redirected: false,
+   Status: 200,
+   StatusText: "";
+   Text: function text(){},
+   Text: "is_01",
+   Url: 'https://yantek.padipresence.id/api/ticket/support/';
 
   }
 ```
