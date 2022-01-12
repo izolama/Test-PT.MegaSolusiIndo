@@ -21,8 +21,8 @@ Waktu 6 jam
 Table of contents
 =================
 
- [ Framework Css. ](#desc)
- [ Framework JavaScript. ](#usage)
+1. [ Framework Css. ](#desc)
+2. [ Framework JavaScript. ](#usage)
 
 <a name="desc"></a>
 Framework Css
