@@ -289,7 +289,52 @@ async function getUser() {
   }
 }
 ```
+**[ ∆ back to top ](#top)**
 
+<a name="b"></a>
+
+`POST` ~ digunakan untuk mengirim data ke server , dan server membuat atau memperbarui
+sumber daya. Data yang dikirim ke server dengan `post` disimpan di `request` body permintaan `Http`
+```js
+function getUserAccount() {
+  return axios.get('/user/12345');
+}
+
+function getUserPermissions() {
+  return axios.get('/user/12345/permissions');
+}
+
+Promise.all([getUserAccount(), getUserPermissions()])
+  .then(function (results) {
+    const acct = results[0];
+    const perm = results[1];
+  });
+```
+**[ ∆ back to top ](#top)**
+
+<a name="c"></a>
+
+`PUT` ~ Mengirim data ke server , dan server membuat atau memperbarui
+sumber daya. Perbedaan `POST` dan `PUT` , `PUT` memanggil permintaan
+berulang dengan hasil yang sama. Sedang `POST` memanggil permintaan berulang 
+dan memiliki efek samping berupa pembuatan sumber daya yang sama beberapa kali.
+
+```js
+axios.put(
+  '/yantek.padipresence.id/api/ticket/support/',
+  {
+    title: title,
+    description: description,
+    published: true,
+  },
+  {
+    headers: {
+      "x-access-token": "token-value",
+    },
+  }
+);
+```
+**[ ∆ back to top ](#top)**
 
 
 
