@@ -34,9 +34,9 @@ Table of contents
    - [Perl. ](#perl)
    - [Changing The Port. ](#change)
 3. [ Request Http Call. ](#call)
+   - [FetchApi. ](#fetch)  
    - [AXIOS. ](#axios)
-   - [FetchApi. ](#fetch)
-
+  
 
 
 <a name="desc"></a>
@@ -196,6 +196,9 @@ Mendapatkan data `response` yang diinginkan .
   Imei : "imei1234",
   Status : 200
 ```
+
+**[ ∆ back to top ](#top)**
+
 
 <a name="axios"></a>
 Sedangkan dengan `AXIOS`
