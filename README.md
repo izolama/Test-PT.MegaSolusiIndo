@@ -132,7 +132,7 @@ Http call yang lebih baik dalam penerapan
 Fetch Api , adalah native web Api untuk melakukan HTTP Call dari
 External network. Untuk Fetch di MDN terjadi dokumentasi yang
 Bertumpuk . 
-```js
+```diff
 const url = 'https://yantek.padipresence.id/api/ticket/support/';
  fetch(url, {
    headers : {
