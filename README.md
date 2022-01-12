@@ -142,7 +142,7 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
 ```
 ### console fetchApi
 
-```json
+```JSON
   [ObjectResponse]{
    ArrayBuffer: function arrayBuffer (){},
    Blob: function blob(){},
