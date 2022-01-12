@@ -23,15 +23,8 @@ Table of contents
 
 1. [ Framework Css. ](#desc)
 2. [ Framework JavaScript. ](#usage)
-   2.1 [React Tutorial. ](#tuto)
-   2.2 [ ]
-   2.3 [ ]
-   2.4 [ ]
-   2.5 [ ]
-   2.6 [ ]
-   2.7 [ ]
-   2.8 [ ]
-   2.9 [ ]
+___2.1 [React Tutorial. ](#tuto)
+   
 
 
 
