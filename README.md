@@ -13,8 +13,8 @@
 Saya membuat ini untuk mengikuti tes di PT. Mega Giga Solusindo [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://https://megagigasolusindo.co.id/)
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
-It's more solid, reliable and with ability of a parallel processing. And
-absolutely without dependencies.
+Berikut Hasil jawaban yang sudah saya kerjakan dalam
+Waktu 6 jam 
 
 [![Build Status](https://travis-ci.org/ekalinin/github-markdown-toc.svg?branch=master)](https://travis-ci.org/ekalinin/github-markdown-toc)
 
