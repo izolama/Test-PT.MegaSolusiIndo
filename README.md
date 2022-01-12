@@ -140,5 +140,15 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
       }
     }).then(res => console.log(res));
 ```
+### console fetchAp
 
+```json
+  [ObjectResponse]{
+    "Math.PI;", 
+    "Math.E;",
+    "Math.answer.everything;",
+    "Math.answer = { everything: 42 };",
+    "Math.answer.everything;"
+  }
+```
 
