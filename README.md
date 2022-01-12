@@ -35,8 +35,9 @@ Table of contents
 Framework Css
 ============
 
-Framework yang pernah digunakan
-[!TaiwindCss](https://tailwindcss.com/)
+Framework yang pernah digunakan , panduan 
+[TaiwindCss](https://tailwindcss.com/) dan 
+[Bootstrap](https://getbootstrap.com/)
 
 ```bash
  - Taiwind CSS
