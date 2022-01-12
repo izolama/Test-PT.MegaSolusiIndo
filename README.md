@@ -125,5 +125,8 @@ PORT=3001 node server.js
 <a name="call"></a>
 Http Call antara Fetch & AXIOS
 ============
+Http call yang lebih baik dalam penerapan
+[FetchApi]() dan 
+[AXIOS]()
 
 
