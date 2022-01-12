@@ -337,6 +337,26 @@ axios.put(
 **[ ∆ back to top ](#top)**
 
 
+<a name="d"></a>
+`Headers` ~ memeriksa Methode `GET` dengan apa yang dilakukan akan
+dikembangkan sebelum benar - benar membuat permintaan `GET` seperti sebelum 
+mengunduh file besar atau isi `response`
+
+```js
+const axios = require('axios');
+
+// httpbin.org gives you the headers in the response
+// body `res.data`.
+// See: https://httpbin.org/#/HTTP_Methods/get_get
+const res = await axios.get('https://yantek.yadipresence.id/api/ticket/support/', {
+  headers: {
+    'Test-Header': 'test-value'
+  }
+});
+
+res.data.headers['Test-Header']; 
+```
+**[ ∆ back to top ](#top)**
 
 
 
