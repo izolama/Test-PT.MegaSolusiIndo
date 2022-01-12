@@ -31,9 +31,9 @@
   
  ​    bar ​=​ ​9​; 
   
- ​    ​console​.​log​(foo, bar); ​//​ => 1, 9 
- ​    ``` 
-  
+ ​    ​console​.​log​(foo, bar); ​//​ => 1, 9 
+
+ 
  ​    ​-​ Symbols and BigInts cannot be faithfully polyfilled, so they should not be used when targeting browsers/environments that don’t support them natively. 
   
  ​  <a name="types--complex"></a><a name="1.2"></a> 
@@ -52,7 +52,7 @@
  ​    ​console​.​log​(foo[​0​], bar[​0​]); ​//​ => 9, 9 
  ​    ``` 
   
- ​**[​⬆ back to top​](#table-of-contents)** 
+ ​**[​⬆ back to top​](#table-of-contents)** 
  
   
 
