@@ -18,6 +18,7 @@ Waktu 6 jam
 
 [![Build Status](https://travis-ci.org/ekalinin/github-markdown-toc.svg?branch=master)](https://travis-ci.org/ekalinin/github-markdown-toc)
 
+<a name="top"></a>
 Table of contents
 =================
 
@@ -124,6 +125,8 @@ You can change the port number by setting the `$PORT` environment variable befor
 ```sh
 PORT=3001 node server.js
 ```
+[ ∆back to top ](#top)
+
 <a name="call"></a>
 Http Call antara Fetch & AXIOS
 ============
