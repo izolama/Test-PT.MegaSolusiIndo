@@ -23,7 +23,7 @@ Table of contents
 
 <!--ts-->
    * [Framework Css](#frameworkcss)
-   * [Usage](#usage)
+   * [Framework JavaScript](#frameworkjavascript)
    * [Tests](#tests)
    * [Dependency](#dependency)
    * [Docker](#docker)
@@ -43,3 +43,6 @@ Framework yang pernah digunakan , panduan
  - Taiwind CSS
  - Bootstrap
 ```
+
+Framework JavaScript
+============
