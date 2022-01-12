@@ -1,6 +1,7 @@
 # Table Of Contents
   
- ​​1.​ [​​Framework CSS yang pernah digunakan](#types) 
+ ​​1.​ [​​Framework CSS yang pernah digunakan]
+    (#types) 
 
  ​1.​ [​Framwork JavaScript?​](#references) 
 
