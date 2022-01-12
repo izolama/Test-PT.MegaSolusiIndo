@@ -23,7 +23,7 @@ Table of contents
 
 <!--ts-->
    * [Framework Css](#frameworkcss)
-   * [Framework JavaScript](#frameworkjavascript)
+   * [JavaScript Framework](#javascriptframework)
    * [Tests](#tests)
    * [Dependency](#dependency)
    * [Docker](#docker)
@@ -44,5 +44,5 @@ Framework yang pernah digunakan , panduan
  - Bootstrap
 ```
 
-Framework JavaScript
+JavaScript Framework
 ============
