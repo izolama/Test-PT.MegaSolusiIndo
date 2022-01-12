@@ -345,9 +345,6 @@ mengunduh file besar atau isi `response`
 ```js
 const axios = require('axios');
 
-// httpbin.org gives you the headers in the response
-// body `res.data`.
-// See: https://httpbin.org/#/HTTP_Methods/get_get
 const res = await axios.get('https://yantek.yadipresence.id/api/ticket/support/', {
   headers: {
     'Test-Header': 'test-value'
