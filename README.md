@@ -21,11 +21,10 @@ Waktu 6 jam
 Table of contents
 =================
 
-<!--ts-->
-   * [Framework Css](#frameworkcss)
-<!--te-->
+1. [ Description. ](#desc)
+2. [ Usage tips. ](#usage)
 
-
+<a name="desc"></a>
 Framework Css
 ============
 
@@ -37,3 +36,12 @@ Framework yang pernah digunakan , panduan
  - Taiwind CSS
  - Bootstrap
 ```
+
+sometext
+
+<a name="usage"></a>
+## 2. Usage tips
+
+sometext
+
+
