@@ -355,7 +355,16 @@ res.data.headers['Test-Header'];
 ```
 **[ ∆ back to top ](#top)**
 
+<a name="e"></a>
 
+`Delete` ~ untuk menghapus sumber daya yang ditentukan
+
+```js
+const res = await axios.delete('https://yantek.yadipresence.id/api/ticket/support/', { data: { id: 10} });
+
+res.data.json; // { answer: 42 }
+```
+**[ ∆ back to top ](#top)**
 
 
 
