@@ -46,8 +46,7 @@ Framework yang pernah digunakan , panduan
 [Bootstrap](https://getbootstrap.com/)
 
 ```bash
- - Taiwind CSS
- - Bootstrap
+ - React Js
 ```
 
 
