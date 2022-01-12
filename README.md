@@ -2,10 +2,10 @@
   
  ​​1.​ [​​Framework CSS yang pernah digunakan ?](#types)
 
- 1.​ [​Framework JavaScript?​](#references)
+ 2.​ [​Framework JavaScript?​](#references)
 
- ​​1.​ [​Http call yang lebih baik di JavaScript FetchApi, jQuery, atau AXIOS ?](#objects)
+ ​​3.​ [​Http call yang lebih baik di JavaScript FetchApi, jQuery, atau AXIOS ?](#objects)
 
- ​​1.​ [​Mthode request Http, sebutkan dan jelaskan ?](#arrays) 
+ ​​4.​ [​Mthode request Http, sebutkan dan jelaskan ?](#arrays) 
 
- ​1.​ [Aplikasi login-tampillist-tambah​​](#destructuring)
+ ​5.​ [Aplikasi login-tampillist-tambah​​](#destructuring)
