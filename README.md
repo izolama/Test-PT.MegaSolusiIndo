@@ -127,6 +127,18 @@ Http Call antara Fetch & AXIOS
 ============
 Http call yang lebih baik dalam penerapan
 [FetchApi](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API) dan 
-[AXIOS]()
+[AXIOS](https://axios-http.com/docs/intro) 
+
+Fetch Api , adalah native web Api untuk melakukan HTTP Call dari
+External network. Untuk Fetch di MDN terjadi dokumentasi yang
+Bertumpuk . 
+'''javascript
+   const url = 'https://yantek.padipresence.id/api/ticket/support/';
+     fetch(url, {
+       headers : {
+         'Accept' : 'application/Json'
+       }
+    }).then(res => console.log(res));
+'''
 
 
