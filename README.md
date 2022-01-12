@@ -367,6 +367,35 @@ res.data.json; // { answer: 42 }
 **[ ∆ back to top ](#top)**
 
 
+<a name="f"></a>
+
+`Patch` ~ Untuk melakukan update data, ada 2 metode yaitu Put dan Patch.
+ Metode Put membutuhkan object data utuh, sementara Patch hanya field yang akan diupdate saja
+
+```js
+const res = await axios.patch('https://yantek.yadipresence.id/api/ticket/support/', { user: 'is_01' });
+
+res.data.headers['Content-Type'];
+```
+**[ ∆ back to top ](#top)**
+
+<a name="g"></a>
+
+`Options` ~ Pilihan ini berguna untuk mencari tahu mana metode HTTP dapat diakses oleh klien.
+Tergantung pada bagaimana web server mencoba untuk menyambung ke dikonfigurasi, 
+administrator mungkin hanya memiliki POST dan GET metode HTTP diakses. 
+Sementara metode HTTP lain seperti DELETE, TRACE, dll dinonaktifkan.
+
+```js
+const axios = require('axios');
+
+const res = await axios({
+  url: 'https://yantek.yadipresence.id/api/ticket/support/',
+  method: 'get'
+});
+```
+**[ ∆ back to top ](#top)**
+
 
 **Test yang saya lakukan:**
 
