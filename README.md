@@ -133,11 +133,11 @@ Fetch Api , adalah native web Api untuk melakukan HTTP Call dari
 External network. Untuk Fetch di MDN terjadi dokumentasi yang
 Bertumpuk . 
 ```js
-   const url = 'https://yantek.padipresence.id/api/ticket/support/';
-     fetch(url, {
-       headers : {
-         'Accept' : 'application/Json'
-       }
+const url = 'https://yantek.padipresence.id/api/ticket/support/';
+ fetch(url, {
+   headers : {
+    'Accept' : 'application/Json'
+      }
     }).then(res => console.log(res));
 ```
 
