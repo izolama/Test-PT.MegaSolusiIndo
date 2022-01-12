@@ -9,3 +9,13 @@
  ​​4.​ [​Mthode request Http, sebutkan dan jelaskan ?](#arrays) 
 
  ​5.​ [Aplikasi login-tampillist-tambah​​](#destructuring)
+
+
+  
+ ​##​ ​Types 
+  
+ ​  <a name="types--framework"></a><a name="1.1"></a> 
+ ​  ​-​ [​1.1​](#types--framework) ​**Framework**​: Framework CSS yang pernah digunakan. 
+  
+ ​    ​-​ ​`TailwindCss` 
+ ​    ​-​ ​`Bootstrap`
