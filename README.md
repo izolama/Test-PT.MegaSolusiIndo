@@ -405,6 +405,6 @@ const res = await axios({
 - [x] Methode request Http
 - [ ] aplikasi login - list - add 
 
-Here is a simple footnote[^1]. With some additional text after it.
-
-[^1]: My reference.
+Terimakasih atas kesempatan yang diberikan[^1].
+[Mas Albar Hidayatullah](https://www.linkedin.com/in/albar-hidayatulloh-s-psi-ab4ab6164/)
+[^1]: salam hangat dari saya faizol ama.
