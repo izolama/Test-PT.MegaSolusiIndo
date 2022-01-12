@@ -33,6 +33,7 @@ Table of contents
    - [Perl. ](#perl)
    - [Changing The Port. ](#change)
 3. [ Request Http Call. ](#call)
+   - [AXIOS. ](#axios)
 
 
 
@@ -187,6 +188,7 @@ Mendapatkan data `response` yang diinginkan .
   Status : 200
 ```
 
+<a name="axios"></a>
 Sedangkan dengan `AXIOS`
 ```js
 const url = 'https://yantek.padipresence.id/api/ticket/support/';
@@ -213,4 +215,6 @@ Menampilkan di console
  StatusText : " "
 }
 ```
-
+AXIOS tidak membutuhkan fungsi convert `.json()` . Karena  `response` 
+AXIOS otomatis `return as a JSON` hanya melakukan pemanggilan 
+`res.data` untuk mendapatkan response yang diinginkan.
