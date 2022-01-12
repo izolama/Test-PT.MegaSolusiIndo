@@ -1,7 +1,4 @@
-# Test-PT.MegaSolusiIndo
-
- 
- ​##​ ​Table of Contents 
+## Table Of Content
   
  ​  ​1.​ [​​Framework CSS yang pernah digunakan?](#types) 
  ​  ​1.​ [​Framwork JavaScript?​](#references) 
