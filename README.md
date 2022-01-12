@@ -4,7 +4,7 @@
 
 <details>
   <summary>Table of Contents</summary>
-  -   I want to add a link to the *Regex* section in my markdown.
+  - [Regex](#regex)
 </details>
 
 
