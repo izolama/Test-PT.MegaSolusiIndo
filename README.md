@@ -14,8 +14,12 @@
   
  ​##​ ​Types 
   
- ​  <a name="types--framework"></a><a name="1.1"></a> 
- ​  ​-​ [​1.1​](#types--framework) ​**Framework**​: Framework CSS yang pernah digunakan. 
+ ​  <a name="types--framework"></a>
+   <a name="1.1"></a> 
+ ​  ​-​ [​1.1​](#types--framework) ​
+   **Framework**​: Framework CSS yang pernah digunakan. 
   
  ​    ​-​ ​`TailwindCss` 
  ​    ​-​ ​`Bootstrap`
+ 
+   ​**[​⬆ back to top​](#table-of-contents)**
