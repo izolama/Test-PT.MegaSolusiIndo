@@ -8,11 +8,8 @@
 
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=izolama.izolama)
+### Sangat senang sudah berkunjung! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=izolama.izolama)
 
-I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
-
-As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
-
+Saya membuat ini untuk mengikuti tes di [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://https://megagigasolusindo.co.id/)
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="408" height="318" />
   
