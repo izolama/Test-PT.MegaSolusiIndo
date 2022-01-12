@@ -21,8 +21,8 @@ Waktu 6 jam
 Table of contents
 =================
 
-1. [ Description. ](#desc)
-2. [ Usage tips. ](#usage)
+ [ Framework Css. ](#desc)
+ [ Framework JavaScript. ](#usage)
 
 <a name="desc"></a>
 Framework Css
@@ -37,11 +37,18 @@ Framework yang pernah digunakan , panduan
  - Bootstrap
 ```
 
-sometext
-
 <a name="usage"></a>
-## 2. Usage tips
+Framework JavaScript
+============
 
-sometext
+Framework yang pernah digunakan , panduan 
+[TaiwindCss](https://tailwindcss.com/) dan 
+[Bootstrap](https://getbootstrap.com/)
+
+```bash
+ - Taiwind CSS
+ - Bootstrap
+```
+
 
 
