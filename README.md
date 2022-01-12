@@ -233,3 +233,21 @@ AXIOS otomatis `return as a JSON` hanya melakukan pemanggilan
 
 **[ ∆ back to top ](#top)**
 
+
+
+
+
+
+
+
+
+
+
+**Test yang saya lakukan:**
+
+- [x] Framework CSS yang pernah digunakan
+- [x] Framework JavaScript yang sering digunakan
+- [x] Analisa jawaban fetchApi & AXIOS
+- [x] Methode request Http
+- [ ] aplikasi login - list - add 
+
