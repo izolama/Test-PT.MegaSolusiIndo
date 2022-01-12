@@ -12,7 +12,7 @@
 
 
   
- ​##​ ​Types 
+##​ ​Types 
   
  ​  <a name="types--framework"></a>
    <a name="1.1"></a> 
