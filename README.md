@@ -22,7 +22,7 @@ Table of contents
 =================
 
 <!--ts-->
-   * [FrameworkCss](#frameworkcss)
+   * [Framework Css](#frameworkcss)
    * [Usage](#usage)
    * [Tests](#tests)
    * [Dependency](#dependency)
@@ -32,11 +32,11 @@ Table of contents
 <!--te-->
 
 
-FrameworkCss
+Framework Css
 ============
 
 Linux (manual installation)
 ```bash
-$ wget https://raw.githubusercontent.com/ekalinin/github-markdown-toc/master/gh-md-toc
-$ chmod a+x gh-md-toc
+ - Taiwind CSS
+ - Bootstrap
 ```
