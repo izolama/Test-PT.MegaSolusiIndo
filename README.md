@@ -32,7 +32,7 @@ Table of contents
    - [Go. ](#go)
    - [Perl. ](#perl)
    - [Changing The Port. ](#change)
-3. [ Methode Request Http. ](#call)
+3. [ Request Http Call. ](#call)
 
 
 
@@ -123,7 +123,7 @@ You can change the port number by setting the `$PORT` environment variable befor
 PORT=3001 node server.js
 ```
 <a name="call"></a>
-Http Call yang lebih baik antara Fetch & AXIOS
+Http Call antara Fetch & AXIOS
 ============
 
 
