@@ -140,15 +140,26 @@ const url = 'https://yantek.padipresence.id/api/ticket/support/';
       }
     }).then(res => console.log(res));
 ```
-### console fetchAp
+### console fetchApi
 
 ```json
   [ObjectResponse]{
-    "Math.PI;", 
-    "Math.E;",
-    "Math.answer.everything;",
-    "Math.answer = { everything: 42 };",
-    "Math.answer.everything;"
+   arrayBuffer: function arrayBuffer (){},
+   blob: function blob(){},
+   body: [objectReadableStream]{},
+   bodyused: false,
+   clone: function clone(){},
+   formData: function clone(){},
+   headers: [objectHeaders]{},
+   json: function json(){},
+   ok: true,
+   redirected: false,
+   status: 200,
+   statusText: "";
+   text: function text(){},
+   text: "is_01",
+   url: 'https://yantek.padipresence.id/api/ticket/support/';
+
   }
 ```
 
