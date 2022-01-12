@@ -23,12 +23,6 @@ Table of contents
 
 <!--ts-->
    * [Framework Css](#frameworkcss)
-   * [JavaScript Framework](#javascriptframework)
-   * [Tests](#tests)
-   * [Dependency](#dependency)
-   * [Docker](#docker)
-     * [Local](#local)
-     * [Public](#public)
 <!--te-->
 
 
