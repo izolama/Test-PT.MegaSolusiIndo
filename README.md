@@ -35,7 +35,9 @@ Table of contents
 Framework Css
 ============
 
-Linux (manual installation)
+Framework yang pernah digunakan
+[!TaiwindCss](https://tailwindcss.com/)
+
 ```bash
  - Taiwind CSS
  - Bootstrap
